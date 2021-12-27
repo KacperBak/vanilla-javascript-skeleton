@@ -1,0 +1,5 @@
+= README
+
+== Sources
+- https://www.chartjs.org/docs/latest/getting-started/[Chart.js lib]
+- https://getbootstrap.com/docs/5.0/getting-started/introduction/[Bootstrap 5.0 Starter Template]
